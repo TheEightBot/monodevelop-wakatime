@@ -3,11 +3,6 @@
 	<Project platforms="Mac Linux">
 		<AddinFile>bin/Debug/MonoDevelop.WakaTime.dll</AddinFile>
 		<BuildFile>src/MonoDevelop.WakaTime.sln</BuildFile>
-		<BuildConfiguration>Debug</BuildConfiguration>
-	</Project>
-	<Project platforms="Win32">
-		<AddinFile>bin/DebugWin32/MonoDevelop.WakaTime.dll</AddinFile>
-		<BuildFile>src/MonoDevelop.WakaTime.sln</BuildFile>
-		<BuildConfiguration>DebugWin32</BuildConfiguration>
+		<BuildConfiguration>Release</BuildConfiguration>
 	</Project>
 </AddinProject>
