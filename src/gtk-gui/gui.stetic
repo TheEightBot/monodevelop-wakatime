@@ -6,7 +6,7 @@
   </configuration>
   <import>
     <widget-library name="glade-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
-    <widget-library name="../../bin/DebugWin32/MonoDevelop.WakaTime.dll" internal="true" />
+    <widget-library name="../../bin/MonoDevelop.WakaTime.dll" internal="true" />
   </import>
   <widget class="Gtk.Window" id="SettingsForm" design-size="505 149">
     <property name="MemberName" />
